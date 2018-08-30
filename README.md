@@ -1,3 +1,7 @@
 # hello-world2
 this is another repository
-i am mad
+redme-edit
+i am pranali
+i am nidhi
+iam
+master
